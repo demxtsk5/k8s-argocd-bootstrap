@@ -10,7 +10,7 @@ spec:
   project: bootstrap
   source:
     repoURL: https://github.com/demxtsk5/test.git
-    path: /
+    path: .
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
